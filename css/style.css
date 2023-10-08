@@ -1,0 +1,40 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Oswald', sans-serif;
+}
+p,a,li,figcaption,th,td,label,input{
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    color: green;
+}
+.navbar-brand img{
+    height: 100px;
+    width: auto;
+}
+.form-row{
+    padding: 5%;
+}
+.form-row h2{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.submit-message{
+    text-align: center;
+}
+.navbar{
+    background-color:#ff8800;
+}
+.form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.control-label{
+    margin-right: 100px;
+}
+.btn{
+    background-color: #ff8800;
+}
